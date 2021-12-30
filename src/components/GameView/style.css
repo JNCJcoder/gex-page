@@ -1,0 +1,18 @@
+.Imagem
+{
+    box-shadow: 0 0 0.4em #069b1f;
+}
+
+.Nome {
+    font-weight: bolder;
+    font-size: 19px;
+}
+
+.Consoles {
+    font-size: 13px;
+}
+
+.Nome, .Consoles {
+    text-shadow: 0 0 0.5em #069b1f;
+    color: rgb(231, 231, 231);
+}

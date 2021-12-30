@@ -1,0 +1,16 @@
+.gexHistoria {
+    display: flex;
+    flex-direction: row;
+}
+.gexHistoria p {
+    text-shadow: 0 0 1em #069b1f;
+}
+
+@media (max-width: 767px) {
+    .gexHistoria {
+        flex-direction: column;
+        flex-flow: wrap-reverse;
+        align-items: center;
+        justify-content: center;
+    }
+}

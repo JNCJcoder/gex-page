@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d52ea55a.css",
+    "main.js": "/static/js/main.97eed8c4.js",
+    "static/media/background.jpg": "/static/media/background.c5145ce367d9569a869d.jpg",
+    "static/media/Revista-videogamenews.jpg": "/static/media/Revista-videogamenews.b44b126a0b13f417faec.jpg",
+    "static/media/gex-rez.png": "/static/media/gex-rez.18515e2fb648e1e282f2.png",
+    "static/media/Revista-progames.jpg": "/static/media/Revista-progames.a8c935b3b302f5d9b786.jpg",
+    "static/media/Gex2-box.jpg": "/static/media/Gex2-box.19b9895ee665b784c36e.jpg",
+    "static/media/Gex3-box.jpg": "/static/media/Gex3-box.05a0a56ae70bfabb09e5.jpg",
+    "static/media/gex_logo.png": "/static/media/gex_logo.2bd7ee85877a98a3908f.png",
+    "static/media/Revista-gameX.jpg": "/static/media/Revista-gameX.dcd2b9c569835ee79f24.jpg",
+    "static/media/Gex1-box.jpg": "/static/media/Gex1-box.dd3ec3fce9528932d552.jpg",
+    "static/media/Gex.webp": "/static/media/Gex.8cad6cc0a36d188f1dc5.webp",
+    "static/media/Gex_cursor.webp": "/static/media/Gex_cursor.1c8110d8f7ab9b45e9fd.webp",
+    "index.html": "/index.html",
+    "main.d52ea55a.css.map": "/static/css/main.d52ea55a.css.map",
+    "main.97eed8c4.js.map": "/static/js/main.97eed8c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52ea55a.css",
+    "static/js/main.97eed8c4.js"
+  ]
+}

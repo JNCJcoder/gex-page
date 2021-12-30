@@ -1,0 +1,10 @@
+.Box {
+    margin: 15px 20px;
+    padding: 15px;
+    padding-top: 5px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    box-shadow: 0 0 1em #069b1f;
+    background: #0000008e;
+    color: #fff;
+}

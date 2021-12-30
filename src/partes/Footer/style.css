@@ -1,0 +1,9 @@
+.creditos a {
+    color: #40e088;
+}
+
+@media (max-width: 330px) {
+    .creditos {
+        font-size: 17px;
+    }
+}
